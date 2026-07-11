@@ -1,7 +1,7 @@
 # Does Confidence-Gating Work?
 ### Empirical Evaluation of a Core AI Oversight Assumption
 
-**Paper:** [paper/paper.pdf](paper/paper.pdf) · **Preprint:** Zenodo (DOI pending)
+**Paper:** [paper/paper.pdf](paper/paper.pdf) · **Preprint:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21311853.svg)](https://doi.org/10.5281/zenodo.21311853)
 
 ---
 
@@ -135,8 +135,9 @@ See [experiments/results/PROVENANCE.md](experiments/results/PROVENANCE.md) for e
   year    = {2026},
   month   = {7},
   note    = {Preprint, version 1.0. Not peer reviewed.},
-  url     = {https://github.com/Rushhaabhhh/confidence-gating-evaluation}
+  doi     = {10.5281/zenodo.21311853},
+  url     = {https://doi.org/10.5281/zenodo.21311853}
 }
 ```
 
-A machine-readable citation is provided in [CITATION.cff](CITATION.cff). Once the Zenodo DOI is minted, cite the DOI version.
+A machine-readable citation is provided in [CITATION.cff](CITATION.cff).
